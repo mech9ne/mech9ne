@@ -10,10 +10,6 @@
 <div align="center">
  
 
- </div>
- 
-
- <hr/>
  
 <h2 align="center"> frameworks </h2>
 <br/>
