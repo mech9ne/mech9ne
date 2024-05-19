@@ -35,6 +35,10 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=20" alt="streak stats"/>
+
+</div>
+
+    
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=zxlpvx&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
  
